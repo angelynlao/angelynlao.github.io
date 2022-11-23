@@ -37,3 +37,5 @@ UNDERGRADUATE STUDENTS MENTORSHIP
 
 
 SENIOR HIGH SCHOOL STUDENTS MENTORSHIP
+
+2019 - 2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **State Analysis of Three-node Network Motifs using Boolean Model** <br> Philipe Chan, Rlan Manero, & Matthew Te (SHS, DLSU)
