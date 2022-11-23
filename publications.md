@@ -6,11 +6,26 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2023 <br>
+[**Activation of T-cells and activity of macrophages among smokers with leptospirosis: a synergistic dynamics in the impairment of human immune system.**]<br>
+D.E. Sumalapao, <u>A. Lao</u>, A. Adriano, J.C. So, N. Gloriani. <br>
+*Accepted for publication: Brazilian Archives of Biology and Technology.*
+
+[**CP-Graph Approach to Modeling Sustainable Ecological Networks.**]<br>
+M.B. Merlin, <u>A. Lao</u><br>
+*Book Chapter, Elsevier*
 
 2022 <br>
+[**CMathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of Candida albicans.**](https://journals.asm.org/doi/full/10.1128/msystems.00691-22)<br>
+P. Yu, L. Moron-Espiritu, <u>A. Lao</u><br>
+*Msystems, e00691-22.*
+
 [**Concentration Robustness in LP Kinetic Systems.**](https://match.pmf.kg.ac.rs/electronic_versions/Match88/n1/match88n1_29-66.pdf) <br>
 <u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. <br>
 *MATCH Communication in Mathematical and Computer Chemistry, 88, 29-66.*
+
+[**Maintaining the Resilience and Productivity of Co-culture Systems in the Face of Environmental Change.**](https://www.nature.com/articles/s41893-022-00912-w) <br>
+<u>A. Lao</u>, K. Aviso, H. Cabezas, R. Tan.<br>
+*Nature Sustainability 5 (9), 749-752.*
 
 [**Stochastic Process Algebra Model of Amyloidogenic Processing in Alzheimer’s Disease.**](https://link.springer.com/chapter/10.1007/978-3-030-79606-8_18) <br>
 <u>A. Lao</u>, M.A. Dela Cruz, G.J. Tenio, P. Sy, E. Mendoza. <br>
@@ -21,17 +36,14 @@ permalink: /publications/
 R. Tan, K. Aviso, <u>A. Lao</u>, M. Promentilla. <br>
 *Clean technologies and environmental policy 24 (1), 173-184.*
 
-[**Maintaining the Resilience and Productivity of Co-culture Systems in the Face of Environmental Change.**](https://assets.researchsquare.com/files/rs-856052/v1/e6bffec7-2219-479e-aaaa-52ee7ef110dc.pdf?c=1632234919) <br>
-<u>A. Lao</u>, K. Aviso, H. Cabezas, R. Tan.
-
 [**P-graph causality maps.**](https://link.springer.com/article/10.1007/s41660-020-00147-2) <br>
 R. Tan, K. Aviso, <u>A. Lao</u>, M. Promentilla. <br>
 *Process Integration and Optimization for Sustainability 5 (3), 319-334.*
 
 2020 <br>
 [**Cytotoxic Activity of _Raphanus sativus Linn._ on Selected Cancer Cell Lines and Mechanistic Pathways Predicted through Mathematical Modeling.**](https://www.springerprofessional.de/en/cytotoxic-activity-of-raphanus-sativus-linn-on-selected-cancer-c/19249180) <br>
-<u>A. Lao</u> et al. <br>
-*Springer Proceedings in Mathematics & Statistics.*
+<u>A. Lao</u>, J.M.C. Edra, K.D. Talag, D.S. Tan, G. Oyong, M. Noel, M.L. Enriquez, M.C. Tan. <br>
+*In International Workshop on Complex Systems Modelling & Simulation, pp. 175-196. Springer, Singapore, 2019.*
 
 [**CRNet Translator: Building GMA, S-System Models and Chemical Reaction Networks of Disease and Metabolic Pathways.**](https://ieeexplore.ieee.org/document/9284412) <br>
 K. Fields, N. Fortun, G.A. Solano, <u>A. Lao</u>. <br>
