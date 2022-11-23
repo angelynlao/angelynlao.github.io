@@ -19,13 +19,17 @@ M.B. Merlin, <u>A. Lao</u><br>
 P. Yu, L. Moron-Espiritu, <u>A. Lao</u><br>
 *Msystems, e00691-22.*
 
-[**Concentration Robustness in LP Kinetic Systems.**](https://match.pmf.kg.ac.rs/electronic_versions/Match88/n1/match88n1_29-66.pdf) <br>
-<u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. <br>
-*MATCH Communication in Mathematical and Computer Chemistry, 88, 29-66.*
+[**Reaction Network Analysis of Metabolic Insulin Signaling.**]()<br>
+P. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
+*Bulletin of Mathematical Biologythis link is disabled, 2022, 84(11), 129.*
 
 [**Maintaining the Resilience and Productivity of Co-culture Systems in the Face of Environmental Change.**](https://www.nature.com/articles/s41893-022-00912-w) <br>
 <u>A. Lao</u>, K. Aviso, H. Cabezas, R. Tan.<br>
 *Nature Sustainability 5 (9), 749-752.*
+
+[**Concentration Robustness in LP Kinetic Systems.**](https://match.pmf.kg.ac.rs/electronic_versions/Match88/n1/match88n1_29-66.pdf) <br>
+<u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. <br>
+*MATCH Communication in Mathematical and Computer Chemistry, 88, 29-66.*
 
 [**Stochastic Process Algebra Model of Amyloidogenic Processing in Alzheimer’s Disease.**](https://link.springer.com/chapter/10.1007/978-3-030-79606-8_18) <br>
 <u>A. Lao</u>, M.A. Dela Cruz, G.J. Tenio, P. Sy, E. Mendoza. <br>
