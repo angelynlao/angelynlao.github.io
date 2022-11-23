@@ -6,11 +6,11 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2023 <br>
-[**Activation of T-cells and activity of macrophages among smokers with leptospirosis: a synergistic dynamics in the impairment of human immune system.**]<br>
+[**Activation of T-cells and activity of macrophages among smokers with leptospirosis: a synergistic dynamics in the impairment of human immune system.**]()<br>
 D.E. Sumalapao, <u>A. Lao</u>, A. Adriano, J.C. So, N. Gloriani. <br>
 *Accepted for publication: Brazilian Archives of Biology and Technology.*
 
-[**CP-Graph Approach to Modeling Sustainable Ecological Networks.**]<br>
+[**P-Graph Approach to Modeling Sustainable Ecological Networks.**]()<br>
 M.B. Merlin, <u>A. Lao</u><br>
 *Book Chapter, Elsevier*
 
