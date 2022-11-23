@@ -19,7 +19,7 @@ M.B. Merlin, <u>A. Lao</u><br>
 P. Yu, L. Moron-Espiritu, <u>A. Lao</u><br>
 *Msystems, e00691-22.*
 
-[**Reaction Network Analysis of Metabolic Insulin Signaling.**]()<br>
+[**Reaction Network Analysis of Metabolic Insulin Signaling.**](https://link.springer.com/article/10.1007/s11538-022-01087-3)<br>
 P. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
 *Bulletin of Mathematical Biologythis link is disabled, 2022, 84(11), 129.*
 
