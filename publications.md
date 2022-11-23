@@ -66,7 +66,7 @@ K.J. Villasin, E. Rodriguez, and <u>A. Lao</u>. <br>
 *In Computational Methods in Synthetic Biology, Second Edition.*
 
 [**Prevention of H5N6 outbreaks in the Philippines using optimal control.**](https://www.philsciletters.net/2020-158/) <br>
-A. Lucido and <u>A. Lao</u>. <br>
+A. Lucido, R. Smith?, <u>A. Lao</u>. <br>
 *Philippine Science Letters.*
 
 [**Analysis of the co-authorship network of Filipino researchers in deep learning.**](https://philsciletters.net/2020-148/) <br>
