@@ -30,6 +30,10 @@ P. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
 [**Concentration Robustness in LP Kinetic Systems.**](https://match.pmf.kg.ac.rs/electronic_versions/Match88/n1/match88n1_29-66.pdf) <br>
 <u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. <br>
 *MATCH Communication in Mathematical and Computer Chemistry, 88, 29-66.*
+	 
+[**Modelling the Effects of Medium-Chain Triglycerides on Cerebral Ketone Body Metabolism.**](https://www.frontiersin.org/articles/10.3389/fsysb.2022.907957)<br>
+A. Espina, E. Mendoza, <u>A. Lao</u><br>	
+*Frontiers in Systems Biology, 2.*     
 
 [**Stochastic Process Algebra Model of Amyloidogenic Processing in Alzheimer’s Disease.**](https://link.springer.com/chapter/10.1007/978-3-030-79606-8_18) <br>
 <u>A. Lao</u>, M.A. Dela Cruz, G.J. Tenio, P. Sy, E. Mendoza. <br>
