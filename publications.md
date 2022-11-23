@@ -15,7 +15,7 @@ M.B. Merlin, <u>A. Lao</u><br>
 *Book Chapter, Elsevier*
 
 2022 <br>
-[**CMathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of Candida albicans.**](https://journals.asm.org/doi/full/10.1128/msystems.00691-22)<br>
+[**Mathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of Candida albicans.**](https://journals.asm.org/doi/full/10.1128/msystems.00691-22)<br>
 P. Yu, L. Moron-Espiritu, <u>A. Lao</u><br>
 *Msystems, e00691-22.*
 
