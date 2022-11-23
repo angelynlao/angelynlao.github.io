@@ -28,7 +28,7 @@ UNDERGRADUATE STUDENTS MENTORSHIP
 | **Pathway-based human disease clustering tool using self-organizing maps** <br> James Andrew R. Sarmiento (BS in Computer Science, UPM)
 | **Understanding the Effect of MCT on Ketone Body Metabolism in the Brain using BST Model** <br> Issa Dominic Calalang & Patricia Celon (BS in Mathematics)
 | **Gross Margin Maximization and Space Optimization of Coconut Lands through Crop Placement Manupulation** <br> Elaiza Marie Parumog (BS in Mathematics)
-| **A dynamical analysis of Tuberculosis in the Philippines** <br> King James Villasin (BS in Mathematics)
+| **A dynamical analysis of Tuberculosis in the Philippines** <br> King James Villasin (BS in Mathematics, UA&P)
 2015 - 2016 | **Stochastic Process Algebra Model of Amyloidogenic Processing under the Influece of SORLA** <br> Grazielle Joy Tenio & Michelle Andrea Dela Cruz (BS in Mathematics)
 | **Understanding the Dynamical Behavior of Coffee Components Associated to bitterness of Arabica and Robusta through Mathematical Modeling** <br> Aura Faye Evanelista & Nadine Martinez (BS in Mathematics)
 | **Biological Network Analysis and Subnetwork Extraction Tool.** <br> Danielle Rodriguez (BS in Computer Science, UPM)
