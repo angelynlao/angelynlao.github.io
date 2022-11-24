@@ -22,17 +22,18 @@ GRADUATE STUDENTS MENTORSHIP
 
 UNDERGRADUATE STUDENTS MENTORSHIP
 
-2018 - 2019 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Dynamical Models on the Interaction between Spreaders of and Exposed to Truth and Rumor** <br> Juan Miguel Augusto M. Feria & Michael Lawrence S. Oliva (BS in Mathematics)
-| **CRNet Translator: Building GMA, S-System Models and Chemical Reaction Networks of Disease and Metabolic Pathways** <br> Karen Fields (BS in Computer Science, UPM)
+2021 - 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **A Livability Evaluation FrameworkUsing a Multi-Source Data and Network Science Approach– Applied to the Cities of Bacoor and Makati, Philippines** <br> Richard Lawrence Lance Jao & Deanne Jaimelyn Ong (BS in Mathematics; co-adviser)
+2018 - 2019 | **Dynamical Models on the Interaction between Spreaders of and Exposed to Truth and Rumor** <br> Juan Miguel Augusto M. Feria & Michael Lawrence S. Oliva (BS in Mathematics)
+| **CRNet Translator: Building GMA, S-System Models and Chemical Reaction Networks of Disease and Metabolic Pathways** <br> Karen Fields (BS in Computer Science, UPM; co-adviser)
 2017 - 2018 | **Transmission Dynamics and Control Strategies Assessment of Avian Influenza A(H5N6) in the Philippines** <br> Hanl Lee (BS in Mathematics)
-| **[Extended Work on] Understanding the Effect of _Raphanus Sativus_ on Chronic Myeloid Leukemia, Breast, and Colon Cancer through Mathematical Modeling** <br> Daisylyn Senna Tan (BS in Biochemistry)
-| **Pathway-based human disease clustering tool using self-organizing maps** <br> James Andrew R. Sarmiento (BS in Computer Science, UPM)
+| **[Extended Work on] Understanding the Effect of _Raphanus Sativus_ on Chronic Myeloid Leukemia, Breast, and Colon Cancer through Mathematical Modeling** <br> Daisylyn Senna Tan (BS in Biochemistry; co-adviser)
+| **Pathway-based human disease clustering tool using self-organizing maps** <br> James Andrew R. Sarmiento (BS in Computer Science, UPM; co-adviser)
 | **Understanding the Effect of MCT on Ketone Body Metabolism in the Brain using BST Model** <br> Issa Dominic Calalang & Patricia Celon (BS in Mathematics)
 | **Gross Margin Maximization and Space Optimization of Coconut Lands through Crop Placement Manupulation** <br> Elaiza Marie Parumog (BS in Mathematics)
-| **A dynamical analysis of Tuberculosis in the Philippines** <br> King James Villasin (BS in Mathematics, UA&P)
+| **A dynamical analysis of Tuberculosis in the Philippines** <br> King James Villasin (BS in Mathematics, UA&P; co-adviser)
 2015 - 2016 | **Stochastic Process Algebra Model of Amyloidogenic Processing under the Influece of SORLA** <br> Grazielle Joy Tenio & Michelle Andrea Dela Cruz (BS in Mathematics)
 | **Understanding the Dynamical Behavior of Coffee Components Associated to bitterness of Arabica and Robusta through Mathematical Modeling** <br> Aura Faye Evanelista & Nadine Martinez (BS in Mathematics)
-| **Biological Network Analysis and Subnetwork Extraction Tool.** <br> Danielle Rodriguez (BS in Computer Science, UPM)
+| **Biological Network Analysis and Subnetwork Extraction Tool.** <br> Danielle Rodriguez (BS in Computer Science, UPM; co-adviser)
 2014 - 2015 | **Understanding the Effect of _Raphanus Sativus_ on Chronic Myeloid Leukemia, Breast, and Colon Cancer through Mathematical Modeling** <br> Jan Marie Claire J. Edra & Kathleen Dane T. Talag (BS in Mathematics)
 | **Generating Truth Values and Tic-Tac-Toe Game Configuration Using Maude** <br> Jasmine Yvonne Saguisag & Jason Salvador Uro (BS in Mathematics)
 
