@@ -17,12 +17,12 @@ GRADUATE STUDENTS MENTORSHIP
 2017 - 2018 | **Periodic culling outperforms isolation and vaccination strategies in controlling A(H5N6) outbreak** <br> Abel Lucido (MS in Mathematics)
 2016 - 2018 | **Chemical Reaction Network Theory of Carbon Cycle Model** <br> Noel Fortun (PhD in Mathematics)
 2016 - 2017 | **Corpus Annotation of Biomedical Journals for a Machine Learning Approach to Automatic Relation Extraction** <br> Andrew Laron (MS in Computer Studies)
-2015 - 2016 | **Stability Analysis of the ODE Model Representation of Amyloidogenic Processing in Alzheimer's Disease in the Presence of SORLA** <br> Harold Alcantara (MS in Mathematics)
+2015 - 2016 | **Stability Analysis of the ODE Model Representation of Amyloidogenic Processing in Alzheimer's Disease in the Presence of SORLA** <br> Harold Alcantara (MS in Mathematics; co-adviser)
 
 
 UNDERGRADUATE STUDENTS MENTORSHIP
 
-2021 - 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **A Livability Evaluation FrameworkUsing a Multi-Source Data and Network Science Approach– Applied to the Cities of Bacoor and Makati, Philippines** <br> Richard Lawrence Lance Jao & Deanne Jaimelyn Ong (BS in Mathematics; co-adviser)
+2021 - 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **A Livability Evaluation Framework Using a Multi-Source Data and Network Science Approach– Applied to the Cities of Bacoor and Makati, Philippines** <br> Richard Lawrence Lance Jao & Deanne Jaimelyn Ong (BS in Mathematics; co-adviser)
 2018 - 2019 | **Dynamical Models on the Interaction between Spreaders of and Exposed to Truth and Rumor** <br> Juan Miguel Augusto M. Feria & Michael Lawrence S. Oliva (BS in Mathematics)
 | **CRNet Translator: Building GMA, S-System Models and Chemical Reaction Networks of Disease and Metabolic Pathways** <br> Karen Fields (BS in Computer Science, UPM; co-adviser)
 2017 - 2018 | **Transmission Dynamics and Control Strategies Assessment of Avian Influenza A(H5N6) in the Philippines** <br> Hanl Lee (BS in Mathematics)
