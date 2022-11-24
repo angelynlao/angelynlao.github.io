@@ -12,7 +12,7 @@ GRADUATE STUDENTS MENTORSHIP
 2018 - present | **Modeling Brain Energy Metabolism** <br> Abigail Espina (MS in Mathematics)
 2015 - present | **Chemical Reaction Network and Process Graph Approaches of Studying Biological Systems** <br> Riza Ruzgal (PhD Candidate in Mathematics)
 2013 - present | **Systems Biology Approach of Understanding Alzheimer’s Disease & Type 2 Diabetes Modeling** <br> Bryan Osbert (PhD Candidate in Mathematics)
-2020 - 2022 | **Network Analysis of Health Information Epidemic** <br> Feeroz Yusoph (MS Candidate in Mathematics)
+2020 - 2022 | **Dynamical Modeling of Health Information Epidemic** <br> Feeroz Yusoph (MS Candidate in Mathematics)
 2019 - 2021 | **Species subsets and embedded networks of S-systems using Chemical Reaction Network Theory** <br> Honeylou Farinas (PhD in Mathematics)
 2017 - 2018 | **Periodic culling outperforms isolation and vaccination strategies in controlling A(H5N6) outbreak** <br> Abel Lucido (MS in Mathematics)
 2016 - 2018 | **Chemical Reaction Network Theory of Carbon Cycle Model** <br> Noel Fortun (PhD in Mathematics)
