@@ -39,5 +39,5 @@ UNDERGRADUATE STUDENTS MENTORSHIP
 
 SENIOR HIGH SCHOOL STUDENTS MENTORSHIP
 
-2022 - 2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **State Analysis of Three-node Network Motifs using Boolean Model** <br> Gerard C. Aurellano, Edriel B. Guanzon, & Ethan Matthew T. Templonuevo (Grade 11, Philippine Science High School - Bicol Region Campus)
+2022 - 2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **State Analysis of Three-node Network Motifs using Boolean Model** <br> Gerard C. Aurellano, Edriel B. Guanzon, & Ethan Matthew T. Templonuevo (Grade 12, Philippine Science High School - Bicol Region Campus)
 2019 - 2020 | **Co-authorship Network Analysis of Filipino Mathematicians** <br> Philipe Chan, Rlan Manero, & Matthew Te (Grade 12, DLSU)
