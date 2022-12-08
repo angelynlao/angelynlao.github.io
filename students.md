@@ -6,7 +6,7 @@ permalink: /students/
 GRADUATE STUDENTS MENTORSHIP
 
 2020 - present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Topological Graph Convolutional Neural Network** <br> Frieda Faeldog (PhD Candidate in Mathematics)
-2020 - present | **Network Analysis of Depression** <br> Gabrielle Tiongson (PhD Candidate in Clinical Psychology)
+2020 - present | **Network Analysis of Depression** <br> Gabrielle Tiongson (MS Candidate in Clinical Psychology)
 2019 - present | **Impulsive Differential Equation in Drug Design** <br> Sharon Lubag (PhD Candidate in Mathematics)
 2019 - present | **P-graph of Ecosystems** <br> Marvin Merlin (PhD in Mathematics)
 2018 - present | **Modeling Brain Energy Metabolism** <br> Abigail Espina (MS in Mathematics)
