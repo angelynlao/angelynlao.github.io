@@ -9,7 +9,7 @@ GRADUATE STUDENTS MENTORSHIP
 2020 - present | **Network Analysis of Depression** <br> Gabrielle Tiongson (MS Candidate in Clinical Psychology)
 2019 - present | **Impulsive Differential Equation in Drug Design** <br> Sharon Lubag (PhD Candidate in Mathematics)
 2019 - present | **P-graph of Ecosystems** <br> Marvin Merlin (PhD in Mathematics)
-2018 - present | **Modeling Brain Energy Metabolism** <br> Abigail Espina (MS in Mathematics)
+2018 - 2023 | **Modeling Brain Energy Metabolism** <br> Abigail Espina (MS in Mathematics)
 2015 - present | **Chemical Reaction Network and Process Graph Approaches of Studying Biological Systems** <br> Riza Ruzgal (PhD Candidate in Mathematics)
 2013 - present | **Systems Biology Approach of Understanding Alzheimer’s Disease & Type 2 Diabetes Modeling** <br> Bryan Osbert (PhD Candidate in Mathematics)
 2020 - 2022 | **Dynamical Modeling of Health Information Epidemic** <br> Feeroz Yusoph (MS Candidate in Mathematics)
