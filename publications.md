@@ -6,6 +6,10 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2023 <br>
+[**Modelling Network Effects of Biological Control: The Case of the Philippine Coconut Scale Insect Outbreak.**]()<br>
+B.J. Almarinez, D. Amalin, K. Aviso, H. Cabezas, <u>A. Lao</u>, R. Tan. <br>
+*Submitted for publication: BioControl*
+
 [**Activation of T-cells and activity of macrophages among smokers with leptospirosis: a synergistic dynamics in the impairment of human immune system.**]()<br>
 D.E. Sumalapao, <u>A. Lao</u>, A. Adriano, J.C. So, N. Gloriani. <br>
 *Accepted for publication: Brazilian Archives of Biology and Technology.*
