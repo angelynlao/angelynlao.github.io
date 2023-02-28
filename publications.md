@@ -210,6 +210,11 @@ DS Tan, RN Leong, AF Laguna, CA Ngo, <u>A Lao</u>, D Amalin, and D Alvindia. <br
 
 <i class="fa-solid fa-desktop"></i> &nbsp; **SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES**
 
+2023 <br>
+**Health Organizations, Celebrity Fans, and Social Media: Mapping Tuberculosis-related Tweets in the Philippines** <br> *[73rd Annual ICA Conference, Reclaiming Authenticity in Communication](https://www.icahdq.org/default.aspx)* <br> 
+H J.C. Bernadas; E.Y. Chan; M.C. Chan; S.S. Ching; S. Sie; A. Lao; C. Cheng. Toronto, Canada
+
+
 2019 <br>
 **Systems Biology of Alzheimer’s Disease: Understanding How to Prevent or Delay its Onset or Progression** <br> *[International Congress for Industrial and Applied Mathematics](https://iciam2019.com/)* <br> 
 Valencia, Spain
