@@ -10,9 +10,9 @@ permalink: /publications/
 B.J. Almarinez, D. Amalin, K. Aviso, H. Cabezas, <u>A. Lao</u>, R. Tan. <br>
 *BioControl, 1-14*
 
-[**Activation of T-cells and activity of macrophages among smokers with leptospirosis: a synergistic dynamics in the impairment of human immune system.**]()<br>
+[**Activation of T-cells and activity of macrophages among smokers with leptospirosis: a synergistic dynamics in the impairment of human immune system.**](https://www.scielo.br/j/babt/a/mSPngYXxv9kb6Qb3SjJphtn/?lang=en)<br>
 D.E. Sumalapao, <u>A. Lao</u>, A. Adriano, J.C. So, N. Gloriani. <br>
-*Accepted for publication: Brazilian Archives of Biology and Technology.*
+*Brazilian Archives of Biology and Technology, 66, e23220183, 2023.*
 
 [**P-Graph Approach to Modeling Sustainable Ecological Networks.**]()<br>
 M.B. Merlin, <u>A. Lao</u><br>
