@@ -6,6 +6,10 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2023 <br>
+[**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://arxiv.org/abs/2307.03498)<br>
+P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
+*arXiv:2307.03498 [q-bio.MN], doi.org/10.48550/arXiv.2307.03498*
+
 [**Modelling Network Effects of Biological Control: The Case of the Philippine Coconut Scale Insect Outbreak.**](https://link.springer.com/article/10.1007/s10526-023-10188-4)<br>
 B.J. Almarinez, D. Amalin, K. Aviso, H. Cabezas, <u>A. Lao</u>, R. Tan. <br>
 *BioControl, 1-14*
