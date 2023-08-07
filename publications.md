@@ -6,6 +6,11 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2023 <br>
+[**Network modeling for post-entry management of invasive pest species in the Philippines: The case of the Colorado potato beetle, Leptinotarsa decemlineata (Say, 1824) (Coleoptera: Chrysomelidae).**]( )<br>
+B.J. Almarinez, D. Amalin, K. Aviso, H. Cabezas, <u>A. Lao</u>, R. Tan. <br>
+*Accepted for publication in insects.*
+
+
 [**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://arxiv.org/abs/2307.03498)<br>
 P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
 *arXiv:2307.03498 [q-bio.MN]. https://doi.org/10.48550/arXiv.2307.03498*
