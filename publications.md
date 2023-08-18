@@ -24,17 +24,21 @@ D.E. Sumalapao, <u>A. Lao</u>, A. Adriano, J.C. So, N. Gloriani. <br>
 *Brazilian Archives of Biology and Technology, 66, e23220183, 2023.*
 
 [**P-Graph Approach to Modeling Sustainable Ecological Networks.**]()<br>
-M.B. Merlin, <u>A. Lao</u><br>
+M.B. Merlin, <u>A. Lao</u>. <br>
 *Book Chapter, Elsevier*
 
 2022 <br>
 [**Mathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of Candida albicans.**](https://journals.asm.org/doi/full/10.1128/msystems.00691-22)<br>
-P. Yu, L. Moron-Espiritu, <u>A. Lao</u><br>
+P. Yu, L. Moron-Espiritu, <u>A. Lao</u>. <br>
 *Msystems, e00691-22.*
 
 [**Reaction Network Analysis of Metabolic Insulin Signaling.**](https://link.springer.com/article/10.1007/s11538-022-01087-3)<br>
 P. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
 *Bulletin of Mathematical Biologythis link is disabled, 2022, 84(11), 129.*
+
+[**How Health Information Spreads in Twitter: The Whos and Whats of Philippine TB-data.**](https://www.scitepress.org/PublicationsDetail.aspx?ID=lUpZxM6Xy10=&t=1)<br>
+E. Chan, M. Chan, S. Ching, S. Sie, <u>A. Lao</u>, J. Bernadas and C. Cheng. <br>
+*In Proceedings of the 15th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2022) - HEALTHINF; ISBN 978-989-758-552-4; ISSN 2184-4305, SciTePress, pages 421-429. DOI: 10.5220/0010818000003123.*
 
 [**Maintaining the Resilience and Productivity of Co-culture Systems in the Face of Environmental Change.**](https://www.nature.com/articles/s41893-022-00912-w) <br>
 <u>A. Lao</u>, K. Aviso, H. Cabezas, R. Tan.<br>
