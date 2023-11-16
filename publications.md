@@ -6,14 +6,14 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2023 <br>
+[**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://arxiv.org/abs/2307.03498)<br>
+P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <be>
+*Journal of Theoretical Biology 2023, ACCEPTED.*
+*arXiv:2307.03498 [q-bio.MN]. https://doi.org/10.48550/arXiv.2307.03498*
+
 [**Network modeling for post-entry management of invasive pest species in the Philippines: The case of the Colorado potato beetle, Leptinotarsa decemlineata (Say, 1824) (Coleoptera: Chrysomelidae).**]( https://www.mdpi.com/2075-4450/14/9/731)<br>
 B.J. Almarinez, D. Amalin, K. Aviso, H. Cabezas, <u>A. Lao</u>, R. Tan. <br>
 *Insects 2023, 14(9), 731; https://doi.org/10.3390/insects14090731.*
-
-
-[**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://arxiv.org/abs/2307.03498)<br>
-P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
-*arXiv:2307.03498 [q-bio.MN]. https://doi.org/10.48550/arXiv.2307.03498*
 
 [**Modelling Network Effects of Biological Control: The Case of the Philippine Coconut Scale Insect Outbreak.**](https://link.springer.com/article/10.1007/s10526-023-10188-4)<br>
 B.J. Almarinez, D. Amalin, K. Aviso, H. Cabezas, <u>A. Lao</u>, R. Tan. <br>
