@@ -8,8 +8,7 @@ permalink: /publications/
 2023 <br>
 [**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://arxiv.org/abs/2307.03498)<br>
 P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
-*Journal of Theoretical Biology 2023, ACCEPTED.* <br>
-*arXiv:2307.03498 [q-bio.MN]. https://doi.org/10.48550/arXiv.2307.03498*
+*Journal of Theoretical Biology 2023, 577; https://doi.org/10.1016/j.jtbi.2023.111672.* <br>
 
 [**Network modeling for post-entry management of invasive pest species in the Philippines: The case of the Colorado potato beetle, Leptinotarsa decemlineata (Say, 1824) (Coleoptera: Chrysomelidae).**]( https://www.mdpi.com/2075-4450/14/9/731)<br>
 B.J. Almarinez, D. Amalin, K. Aviso, H. Cabezas, <u>A. Lao</u>, R. Tan. <br>
