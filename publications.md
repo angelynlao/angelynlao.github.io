@@ -6,7 +6,7 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2023 <br>
-[**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://arxiv.org/abs/2307.03498)<br>
+[**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://www.sciencedirect.com/science/article/abs/pii/S0022519323002692)<br>
 P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
 *Journal of Theoretical Biology 2023, 577; https://doi.org/10.1016/j.jtbi.2023.111672.* <br>
 
