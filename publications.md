@@ -26,6 +26,18 @@ D.E. Sumalapao, <u>A. Lao</u>, A. Adriano, J.C. So, N. Gloriani. <br>
 M.B. Merlin, <u>A. Lao</u>. <br>
 *Book Chapter, Elsevier*
 
+[**Fans and Health Information Network on X.**]()<br>
+J.M.A. Bernades, E. Chan, M.R. Chan, S.J. Ching, S.L. Sie, <u>A. Lao</u>, C. Cheng. <br>
+*Submitted*
+
+[**Health Communication Modeling Framework.**]()<br>
+F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
+*Submitted*
+
+[**Epidemiological Modeling of Health Information Dynamics on Twitter.**]()<br>
+F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
+*Submitted*
+
 2022 <br>
 [**Mathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of Candida albicans.**](https://journals.asm.org/doi/full/10.1128/msystems.00691-22)<br>
 P. Yu, L. Moron-Espiritu, <u>A. Lao</u>. <br>
