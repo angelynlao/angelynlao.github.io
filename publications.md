@@ -4,8 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
-2024 <br>
 
+2024 <br>
 [**Epidemiological Modeling of Health Information Dynamics on Twitter.**]()<br>
 F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
 *Accepted for Publication at the Asia-Pacific Social Science Review*
