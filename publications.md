@@ -4,6 +4,23 @@ title: Publications
 permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
+2024 <br>
+
+[**Epidemiological Modeling of Health Information Dynamics on Twitter.**]()<br>
+F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
+*Accepted for Publication at the Asia-Pacific Social Science Review*
+
+[**Fans and Health Information Network on X.**]()<br>
+J.M.A. Bernades, E. Chan, M.R. Chan, S.J. Ching, S.L. Sie, <u>A. Lao</u>, C. Cheng. <br>
+*Submitted*
+
+[**Health Communication Modeling Framework.**]()<br>
+F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
+*Submitted*
+
+[**P-Graph Approach to Modeling Sustainable Ecological Networks.**]()<br>
+M.B. Merlin, <u>A. Lao</u>. <br>
+*Book Chapter, Elsevier*
 
 2023 <br>
 [**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://www.sciencedirect.com/science/article/abs/pii/S0022519323002692)<br>
@@ -22,21 +39,6 @@ B.J. Almarinez, D. Amalin, K. Aviso, H. Cabezas, <u>A. Lao</u>, R. Tan. <br>
 D.E. Sumalapao, <u>A. Lao</u>, A. Adriano, J.C. So, N. Gloriani. <br>
 *Brazilian Archives of Biology and Technology, 66, e23220183, 2023.*
 
-[**P-Graph Approach to Modeling Sustainable Ecological Networks.**]()<br>
-M.B. Merlin, <u>A. Lao</u>. <br>
-*Book Chapter, Elsevier*
-
-[**Fans and Health Information Network on X.**]()<br>
-J.M.A. Bernades, E. Chan, M.R. Chan, S.J. Ching, S.L. Sie, <u>A. Lao</u>, C. Cheng. <br>
-*Submitted*
-
-[**Health Communication Modeling Framework.**]()<br>
-F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
-*Submitted*
-
-[**Epidemiological Modeling of Health Information Dynamics on Twitter.**]()<br>
-F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
-*Submitted*
 
 2022 <br>
 [**Mathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of Candida albicans.**](https://journals.asm.org/doi/full/10.1128/msystems.00691-22)<br>
