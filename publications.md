@@ -10,6 +10,10 @@ permalink: /publications/
 F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
 *Accepted for Publication at the Asia-Pacific Social Science Review*
 
+[**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://doi.org/10.1016/j.jtbi.2023.111672)<br>
+P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
+*Journal of Theoretical Biology, 577, 111672, 2024.*
+
 [**Fans and Health Information Network on X.**]()<br>
 J.M.A. Bernades, E. Chan, M.R. Chan, S.J. Ching, S.L. Sie, <u>A. Lao</u>, C. Cheng. <br>
 *Submitted*
@@ -23,10 +27,6 @@ M.B. Merlin, <u>A. Lao</u>. <br>
 *Book Chapter, Elsevier*
 
 2023 <br>
-[**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://www.sciencedirect.com/science/article/abs/pii/S0022519323002692)<br>
-P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
-*Journal of Theoretical Biology 2023, 577; https://doi.org/10.1016/j.jtbi.2023.111672.* <br>
-
 [**Network modeling for post-entry management of invasive pest species in the Philippines: The case of the Colorado potato beetle, Leptinotarsa decemlineata (Say, 1824) (Coleoptera: Chrysomelidae).**]( https://www.mdpi.com/2075-4450/14/9/731)<br>
 B.J. Almarinez, D. Amalin, K. Aviso, H. Cabezas, <u>A. Lao</u>, R. Tan. <br>
 *Insects 2023, 14(9), 731; https://doi.org/10.3390/insects14090731.*
