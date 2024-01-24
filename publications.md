@@ -63,7 +63,7 @@ E. Chan, M. Chan, S. Ching, S. Sie, <u>A. Lao</u>, J. Bernadas and C. Cheng. <br
 	 
 [**Modelling the Effects of Medium-Chain Triglycerides on Cerebral Ketone Body Metabolism.**](https://www.frontiersin.org/articles/10.3389/fsysb.2022.907957)<br>
 A. Espina, E. Mendoza, <u>A. Lao</u><br>	
-*Frontiers in Systems Biology, 2.*     
+*Front. Syst. Biol. 2, 2022.*     
 
 [**Stochastic Process Algebra Model of Amyloidogenic Processing in Alzheimer’s Disease.**](https://link.springer.com/chapter/10.1007/978-3-030-79606-8_18) <br>
 <u>A. Lao</u>, M.A. Dela Cruz, G.J. Tenio, P. Sy, E. Mendoza. <br>
