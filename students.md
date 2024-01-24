@@ -24,7 +24,7 @@ GRADUATE STUDENTS MENTORSHIP
 
 UNDERGRADUATE STUDENTS MENTORSHIP
 
-2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **An Analysis of Crop-Livestock Systems Using Strongly Connected Components and Multi-Objective Optimization** <br> Ma. Clarisa Hilario & Jose Paolo Guarisma (BS in Mathematics)
+2023         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **An Analysis of Crop-Livestock Systems Using Strongly Connected Components and Multi-Objective Optimization** <br> Ma. Clarisa Hilario & Jose Paolo Guarisma (BS in Mathematics)
 2021 - 2022 | **A Livability Evaluation Framework Using a Multi-Source Data and Network Science Approach– Applied to the Cities of Bacoor and Makati, Philippines** <br> Richard Lawrence Lance Jao & Deanne Jaimelyn Ong (BS in Mathematics; co-adviser)
 2018 - 2019 | **Dynamical Models on the Interaction between Spreaders of and Exposed to Truth and Rumor** <br> Juan Miguel Augusto M. Feria & Michael Lawrence S. Oliva (BS in Mathematics)
 | **CRNet Translator: Building GMA, S-System Models and Chemical Reaction Networks of Disease and Metabolic Pathways** <br> Karen Fields (BS in Computer Science, UPM; co-adviser)
