@@ -42,8 +42,7 @@ UNDERGRADUATE STUDENTS MENTORSHIP
 
 SENIOR HIGH SCHOOL STUDENTS MENTORSHIP
  
-2022 - 2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Understanding Filipino’s Communication Dynamics
-Through Topic Modeling Analysis** <br> Christan Angelo Coronel, Airene Moradas, Mary Therese Lourdes Tenorio, Kyla Marie Yee (Grade 12, De La Salle University)
-2023 - 2024 | **Meta-Analysis on the Removal of Microplastics of Biological and Chemical Wastewater Treatment** <br> Richard Ron O. Dela Rosa, Karl Anthony S. Rasing, Prince Matthew F. Sy, Jon Raymond H. Valdez (Grade 12, De La Salle University)
+2023 - 2024 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Understanding Filipino’s Communication Dynamics Through Topic Modeling Analysis** <br> Christan Angelo Coronel, Airene Moradas, Mary Therese Lourdes Tenorio, Kyla Marie Yee (Grade 12, De La Salle University)
+ | **Meta-Analysis on the Removal of Microplastics of Biological and Chemical Wastewater Treatment** <br> Richard Ron O. Dela Rosa, Karl Anthony S. Rasing, Prince Matthew F. Sy, Jon Raymond H. Valdez (Grade 12, De La Salle University)
 2022 - 2023 | **Co-authorship Network Analysis of Filipino Mathematicians** <br> Gerard C. Aurellano, Edriel B. Guanzon, & Ethan Matthew T. Templonuevo (Grade 12, Philippine Science High School - Bicol Region Campus)
 2019 - 2020 | **State Analysis of Three-node Network Motifs using Boolean Model** <br> Philipe Chan, Rlan Manero, & Matthew Te (Grade 12, De La Salle University)
