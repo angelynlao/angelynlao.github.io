@@ -6,7 +6,7 @@ permalink: /students/
 GRADUATE STUDENTS MENTORSHIP
 
 2023 - present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Stock Market Analysis using Persistent-Homology-based Machine Learning** <br> Lara Gabrielle Lim (MS Candidate in Mathematics)
-2022 - present | **Aspect-Based Sentiment Analysis of Filipino COVID-19 Tweets with Memory Networks** <br> John Paul Guzman (MS Candidate in Mathematics)
+2022 - 2024 | **Aspect-Based Sentiment Analysis of Filipino COVID-19 Tweets with Memory Networks** <br> John Paul Guzman (MS Candidate in Mathematics)
 2020 - present | **Topological Graph Convolutional Neural Network** <br> Frieda Faeldog (PhD Candidate in Mathematics)
 2020 - 2023 | **Network Analysis of Depression** <br> Gabrielle Tiongson (MS in Clinical Psychology; co-adviser)
 2020 - 2022 | **Dynamical Modeling of Health Information Epidemic** <br> Feeroz Yusoph (MS Candidate in Mathematics)
