@@ -6,9 +6,9 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2024 <br>
-[**Epidemiological Modeling of Health Information Dynamics on Twitter.**]()<br>
+[**Epidemiological Modeling of Health Information Dynamics on Twitter.**](https://www.dlsu.edu.ph/wp-content/uploads/pdf/research/journals/apssr/2024-march-vol24-1/ra7.pdf)<br>
 F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
-*Accepted for Publication at the Asia-Pacific Social Science Review*
+*Asia-Pacific Social Science Review, 24 (1), March 2024.*
 
 [**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://doi.org/10.1016/j.jtbi.2023.111672)<br>
 P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
