@@ -6,12 +6,20 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2024 <br>
+[**Comparison of reaction networks of insulin signaling.**](https://arxiv.org/abs/2405.10486)<br>
+P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
+*Uploaded to arXiv*
+
 [**Research landscape of Filipino mathematicians: A co-authorship network analysis.**]()<br>
 P. Yu, G. Aurellano, E. Guanzon, E. Templonuevo, U. Chua, B. Samson, J.R. Delos Santos, <u>A. Lao</u>. <br>
 *Submitted*
 
 [**Fans and Health Information Network on X.**]()<br>
 J.M.A. Bernades, E. Chan, M.R. Chan, S.J. Ching, S.L. Sie, <u>A. Lao</u>, C. Cheng. <br>
+*Submitted*
+
+[**Health Communication Modeling Framework.**]()<br>
+F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
 *Submitted*
 
 [**Epidemiological Modeling of Health Information Dynamics on Twitter.**](https://www.dlsu.edu.ph/wp-content/uploads/pdf/research/journals/apssr/2024-march-vol24-1/ra7.pdf)<br>
@@ -21,10 +29,6 @@ F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
 [**Comparative Analysis of Kinetic Realizations of Insulin Signaling.**](https://doi.org/10.1016/j.jtbi.2023.111672)<br>
 P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
 *Journal of Theoretical Biology, 577, 111672, 2024.*
-
-[**Health Communication Modeling Framework.**]()<br>
-F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
-*Submitted*
 
 [**P-Graph Approach to Modeling Sustainable Ecological Networks.**]()<br>
 M.B. Merlin, <u>A. Lao</u>. <br>
