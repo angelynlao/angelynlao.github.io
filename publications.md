@@ -22,6 +22,10 @@ J.M.A. Bernades, E. Chan, M.R. Chan, S.J. Ching, S.L. Sie, <u>A. Lao</u>, C. Che
 F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
 *Submitted*
 
+[**P-Graph Approach to Modeling Sustainable Ecological Networks.**](https://shop.elsevier.com/books/encyclopedia-of-sustainable-technologies/abraham/978-0-323-90386-8)<br>
+M.B. Merlin, <u>A. Lao</u>. <br>
+*In: Abraham, Martin A. (eds.) Encyclopedia of Sustainable Technologies, 2nd Edition, vol. 1, pp. 394-406. Oxford: Elsevier, 2024*
+
 [**Epidemiological Modeling of Health Information Dynamics on Twitter.**](https://www.dlsu.edu.ph/wp-content/uploads/pdf/research/journals/apssr/2024-march-vol24-1/ra7.pdf)<br>
 F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
 *Asia-Pacific Social Science Review, 24 (1), March 2024.*
@@ -30,9 +34,6 @@ F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
 P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
 *Journal of Theoretical Biology, 577, 111672, 2024.*
 
-[**P-Graph Approach to Modeling Sustainable Ecological Networks.**]()<br>
-M.B. Merlin, <u>A. Lao</u>. <br>
-*Book Chapter, Elsevier*
 
 2023 <br>
 [**Network modeling for post-entry management of invasive pest species in the Philippines: The case of the Colorado potato beetle, Leptinotarsa decemlineata (Say, 1824) (Coleoptera: Chrysomelidae).**]( https://www.mdpi.com/2075-4450/14/9/731)<br>
