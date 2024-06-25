@@ -12,7 +12,7 @@ P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
 
 [**Research landscape of Filipino mathematicians: A co-authorship network analysis.**]()<br>
 P. Yu, G. Aurellano, E. Guanzon, E. Templonuevo, U. Chua, B. Samson, J.R. Delos Santos, <u>A. Lao</u>. <br>
-*Submitted*
+*Accepted for Publication at the Philippine Journal of Science*
 
 [**Fans and Health Information Network on X.**]()<br>
 J.M.A. Bernades, E. Chan, M.R. Chan, S.J. Ching, S.L. Sie, <u>A. Lao</u>, C. Cheng. <br>
