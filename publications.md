@@ -224,6 +224,15 @@ O. Wolkenhauer, <u>A. Lao</u>, S. Omholt, and H. Martens. <br>
 
 <i class="fa-solid fa-comments"></i> &nbsp; **CONFERENCE PROCEEDINGS**
 
+2024 <br>
+[**Applying Two-Layer Stacked Long Short Term Memory Neural Network on AUDUSD Currency.**]() <br>
+A Pagaygay, LG Lim and <u>A Lao</u>. <br>
+*De La Salle University Research Congress.*
+
+[**Aspect-Based Sentiment Classification on Filipino Tweets.**]() <br>
+JP Guzman, C Cheng and <u>A Lao</u>. <br>
+*De La Salle University Research Congress.*
+
 2020 <br>
 [**State Analysis of Three-node Network Motifs using Boolean Model.**](https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2020/FNH-15.pdf) <br>
 P Chan, R Manero, M Te and <u>A Lao</u>. <br>
