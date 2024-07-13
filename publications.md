@@ -233,6 +233,11 @@ A Pagaygay, LG Lim and <u>A Lao</u>. <br>
 JP Guzman, C Cheng and <u>A Lao</u>. <br>
 *De La Salle University Research Congress.*
 
+[**Meta-Analysis on the Removal of Microplastics of Biological and Chemical Wastewater Treatment.**]() <br>
+RR Dela Rosa, KA Rasing, PM Sy, JR Valdez, P Yu and <u>A Lao</u>. <br>
+*De La Salle University Senior High School Research Congress.*
+
+
 2020 <br>
 [**State Analysis of Three-node Network Motifs using Boolean Model.**](https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2020/FNH-15.pdf) <br>
 P Chan, R Manero, M Te and <u>A Lao</u>. <br>
