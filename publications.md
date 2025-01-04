@@ -108,13 +108,13 @@ R.G. Tan, K. Aviso, <u>A. Lao</u>, M. Promentilla. <br>
 K.J. Villasin, E. Rodriguez, and <u>A. Lao</u>. <br>
 *In Computational Methods in Synthetic Biology, Second Edition.*
 
-[**Prevention of H5N6 outbreaks in the Philippines using optimal control.**](https://www.philsciletters.net/2020-158/) <br>
+[**Prevention of H5N6 outbreaks in the Philippines using optimal control.**](https://scienggj.org/2020-158/) <br>
 A. Lucido, R. Smith?, <u>A. Lao</u>. <br>
-*Philippine Science Letters.*
+*Philippine Science Letters, 2020, 13(2), 158-173*
 
-[**Analysis of the co-authorship network of Filipino researchers in deep learning.**](https://philsciletters.net/2020-148/) <br>
+[**Analysis of the co-authorship network of Filipino researchers in deep learning.**](https://scienggj.org/2020-148/) <br>
 <u>A. Lao</u>, U. Chua, B.P. Samson. <br>
-*Philippine Science Letters.*
+*Philippine Science Letters, 2020, 13(2), 148-157.*
 
 **Extraction and graph representation of disease-disease associations from biomedical journals using support vector machines.** <br>
 A. Laron, D.S. Tan, N.R. Lim-Cheng, M. Baclig, L. Cornista, M.L. Daroy, <u>A. Lao</u>, and R. Batista-Navarro. <br>
