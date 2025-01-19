@@ -5,14 +5,7 @@ permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
-2024 <br>
-[**Comparison of reaction networks of insulin signaling.**](https://scienggj.org/2024-263/)<br>
-P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
-*SciEnggJ, 17 (2): 263-273, December 2024*
-
-[**Research landscape of Filipino mathematicians: A co-authorship network analysis.**](https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol153_No4_Aug2024/research_landscape_of_Filipino_Mathematicians_.pdf)<br>
-P. Yu, G. Aurellano, E. Guanzon, E. Templonuevo, U. Chua, B. Samson, J.R. Delos Santos, <u>A. Lao</u>. <br>
-*Philippine Journal of Science, 153 (4): 1277-1284, August 2024*
+2025 <br>
 
 [**Fans and Health Information Network on X.**]()<br>
 J.M.A. Bernades, E. Chan, M.R. Chan, S.J. Ching, S.L. Sie, <u>A. Lao</u>, C. Cheng. <br>
@@ -21,6 +14,19 @@ J.M.A. Bernades, E. Chan, M.R. Chan, S.J. Ching, S.L. Sie, <u>A. Lao</u>, C. Che
 [**Health Communication Modeling Framework.**]()<br>
 F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
 *Submitted*
+
+[**Aspect-level Sentiment Analysis of Filipino Tweets During the COVID-19 Pandemic.**](https://healthinf.scitevents.org/)<br>
+J.P. Guzman, C. Cheng, J.M.A. Bernades, <u>A. Lao</u>. <br>
+*Accepted for publication for the 18th Internation Conference on Health Informatics (HEALTHINF 2025) Proceedings*
+
+2024 <br>
+[**Comparison of reaction networks of insulin signaling.**](https://scienggj.org/2024-263/)<br>
+P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
+*SciEnggJ, 17 (2): 263-273, December 2024*
+
+[**Research landscape of Filipino mathematicians: A co-authorship network analysis.**](https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol153_No4_Aug2024/research_landscape_of_Filipino_Mathematicians_.pdf)<br>
+P. Yu, G. Aurellano, E. Guanzon, E. Templonuevo, U. Chua, B. Samson, J.R. Delos Santos, <u>A. Lao</u>. <br>
+*Philippine Journal of Science, 153 (4): 1277-1284, August 2024*
 
 [**P-Graph Approach to Modeling Sustainable Ecological Networks.**](https://doi.org/10.1016/B978-0-323-90386-8.00038-3)<br>
 M.B. Merlin, <u>A. Lao</u>. <br>
