@@ -15,6 +15,10 @@ F. Yusoph, <u>A. Lao</u>, L. David, B. Neubert. <br>
 N. Fortun, P. Gaspar, E. Jose, <u>A. Lao</u>, E. Mendoza, L. Razon. <br>
 *Submitted*
 
+[**Determining the Possibility of Multistationarity in a Model of the Earth Carbon Cycle with Direct Air Capture.**]()<br>
+N. Fortun, <u>A. Lao</u>, E. Mendoza, L. Razon. <br>
+*Submitted*
+
 [**Racializing Vaccines in/via Social Media: Extending the Imaginative Dimension of Communication to Health Communication.**]()<br>
 J.P. Guzman, J.M.A. Bernades, <u>A. Lao</u>, C. Cheng. <br>
 *Submitted*
