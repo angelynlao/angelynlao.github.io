@@ -7,6 +7,10 @@ permalink: /publications/
 
 2025 <br>
 
+[**Racializing vaccines in/ via social media: Extending the imaginative dimension of communication to health communication.**]()<br>
+J.P. Guzman, J.M.A. Bernades, <u>A. Lao</u>, C. Cheng. <br>
+*Submitted*
+
 [**Fans and Health Information Network on X.**]()<br>
 J.M.A. Bernades, E. Chan, M.R. Chan, S.J. Ching, S.L. Sie, <u>A. Lao</u>, C. Cheng. <br>
 *Submitted*
