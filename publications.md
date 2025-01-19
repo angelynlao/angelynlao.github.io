@@ -7,7 +7,15 @@ permalink: /publications/
 
 2025 <br>
 
-[**Racializing vaccines in/ via social media: Extending the imaginative dimension of communication to health communication.**]()<br>
+[**Network Analysis on DNA metabarcoding that captures dietary plant diversity in individuals and cohorts.**]()<br>
+F. Yusoph, <u>A. Lao</u>, L. David, B. Neubert. <br>
+*In Preparation*
+
+[**A reaction network approach to modeling carbon dioxide removal systems.**]()<br>
+N. Fortun, P. Gaspar, E. Jose, <u>A. Lao</u>, E. Mendoza, L. Razon. <br>
+*Submitted*
+
+[**Racializing Vaccines in/via Social Media: Extending the Imaginative Dimension of Communication to Health Communication.**]()<br>
 J.P. Guzman, J.M.A. Bernades, <u>A. Lao</u>, C. Cheng. <br>
 *Submitted*
 
