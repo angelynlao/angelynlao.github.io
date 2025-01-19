@@ -6,9 +6,9 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2024 <br>
-[**Comparison of reaction networks of insulin signaling.**](https://arxiv.org/abs/2405.10486)<br>
+[**Comparison of reaction networks of insulin signaling.**](https://scienggj.org/2024-263/)<br>
 P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
-*Uploaded to arXiv*
+*SciEnggJ, 17 (2): 263-273, December 2024*
 
 [**Research landscape of Filipino mathematicians: A co-authorship network analysis.**](https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol153_No4_Aug2024/research_landscape_of_Filipino_Mathematicians_.pdf)<br>
 P. Yu, G. Aurellano, E. Guanzon, E. Templonuevo, U. Chua, B. Samson, J.R. Delos Santos, <u>A. Lao</u>. <br>
