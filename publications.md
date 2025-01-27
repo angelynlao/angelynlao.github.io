@@ -217,7 +217,7 @@ J. A. R. Sarmiento, <u>A. Lao</u> and G.A. Solano. <br>
 C.P. Arceo, E. Jose, <u>A. Lao</u>, and E. Mendoza. <br>
 *Mathematical Biosciences, 283, 13-29.*
 
-[**A dynamical analysis of Tuberculosis in the Philippines.**](https://www.philsciletters.net/2017-29/) <br>
+[**A dynamical analysis of Tuberculosis in the Philippines.**](https://scienggj.org/2017-29/) <br>
 K.J. Villasin, <u>A. Lao</u>, and E. Rodriguez. <br>
 *Philippine Science Letters, 10 (1), 29-37.*
 
