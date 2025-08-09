@@ -31,7 +31,8 @@ PROFESSIONAL EXPERIENCE
 
 AWARDS
 
-2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Outstanding Scientific Paper Award** <br> Philippines National Academy of Science and Technology
+2025 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  **PAASE Rising Star** <br> Philippine-American Academy of Science and Technology
+2020 | **Outstanding Scientific Paper Award** <br> Philippines National Academy of Science and Technology
 2018 - 2023 | **Br. C. John Lynan FSC Professorial Chair in Mathematics** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2018 - 2023 | **Br. Albinus Peter FSC Professorial Chair in Mathematics** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2018 | **Open Arms Travel Grant** <br> International Congress of Mathematicians/International Mathematical Union
@@ -45,7 +46,8 @@ AWARDS
 
 MEMBERSHIP IN PROFESSIONAL ORGANIZATION
 
-2021 - present &nbsp; &nbsp; | **AC and EC members, EASIAM (East Asia Society for Industrial and Applied Mathematics)** 
+2025 - 2027  &nbsp; &nbsp; | **Secretary, Asian and Oceanian Women in Mathematics (AOWM)**
+2021 - present | **AC and EC members, EASIAM (East Asia Society for Industrial and Applied Mathematics)** 
 2021 - present | **Founding Member, Asian and Oceanian Women in Mathematics (AOWM)**
 2021 - present | **Board Member, Mathematical Society of the Philippines**
 2021 - present | **Regular Member, PAASE (Philippine American Academy of Scientists and Engineers)**
