@@ -33,7 +33,7 @@ F. Yusoph, J.M.A. Bernades, C. Cheng, <u>A. Lao</u>. <br>
 
 [**Aspect-level Sentiment Analysis of Filipino Tweets During the COVID-19 Pandemic.**](https://www.scitepress.org/Papers/2025/130531/130531.pdf)<br>
 J.P. Guzman, C. Cheng, J.M.A. Bernades, <u>A. Lao</u>. <br>
-*18th Internation Conference on Health Informatics (HEALTHINF 2025) Proceedings*
+*In Proceedings of the 18th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2025) - Volume 2: HEALTHINF, pages 343-350*
 
 2024 <br>
 [**Comparison of reaction networks of insulin signaling.**](https://scienggj.org/2024-263/)<br>
