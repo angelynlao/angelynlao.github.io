@@ -5,7 +5,7 @@ permalink: /students/
 ---
 GRADUATE STUDENTS MENTORSHIP
 
-2023 - present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Stock Market Analysis using Persistent-Homology-based Machine Learning** <br> Lara Gabrielle Lim (MS Candidate in Mathematics)
+2023 - 2025 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Stock Market Analysis using Persistent-Homology-based Machine Learning** <br> Lara Gabrielle Lim (MS Candidate in Mathematics)
 2022 - 2024 | **Aspect-Based Sentiment Analysis of Filipino COVID-19 Tweets with Memory Networks** <br> John Paul Guzman (MS in Mathematics)
 2020 - present | **Topological Graph Convolutional Neural Network** <br> Frieda Faeldog (PhD Candidate in Mathematics)
 2020 - 2023 | **Network Analysis of Depression** <br> Gabrielle Tiongson (MS in Clinical Psychology; co-adviser)
@@ -23,7 +23,9 @@ GRADUATE STUDENTS MENTORSHIP
 
 UNDERGRADUATE STUDENTS MENTORSHIP
 
-2023         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **An Analysis of Crop-Livestock Systems Using Strongly Connected Components and Multi-Objective Optimization** <br> Ma. Clarisa Hilario & Jose Paolo Guarisma (BS in Mathematics)
+2025         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Improving Neural Network Efficiency through Adam Optimization and l2, l0 Regularization** <br> Markus Nikolo C. Reynoso (BS in Mathematics)
+| **Understanding Dietary Patterns through Stability-Based Validation using Cluster and Network Analysis** <br> Antonio Luis P. Guidote1 (BS in Mathematics) & Alwyn Nicholson R. Ortega (BS in Statistics; co-adviser)
+2023 | **An Analysis of Crop-Livestock Systems Using Strongly Connected Components and Multi-Objective Optimization** <br> Ma. Clarisa Hilario & Jose Paolo Guarisma (BS in Mathematics)
 2021 - 2022 | **A Livability Evaluation Framework Using a Multi-Source Data and Network Science Approach– Applied to the Cities of Bacoor and Makati, Philippines** <br> Richard Lawrence Lance Jao & Deanne Jaimelyn Ong (BS in Mathematics; co-adviser)
 2018 - 2019 | **Dynamical Models on the Interaction between Spreaders of and Exposed to Truth and Rumor** <br> Juan Miguel Augusto M. Feria & Michael Lawrence S. Oliva (BS in Mathematics)
 | **CRNet Translator: Building GMA, S-System Models and Chemical Reaction Networks of Disease and Metabolic Pathways** <br> Karen Fields (BS in Computer Science, UPM; co-adviser)
