@@ -13,9 +13,10 @@ ACADEMIC BACKGROUND
 
 PROFESSIONAL EXPERIENCE
 
-2022 &nbsp; &nbsp; | **Topic Editor** <br> Frontiers in Systems Biology <br> [Systems Biology, Women in Science 2021/22: Data and Model Integration](https://www.frontiersin.org/research-topics/25941/systems-biology-women-in-science-202122-data-and-model-integration)
+2024 - present | **Center Director** <br> [Center for Natural Sciences and Environmental Research](https://www.frontiersin.org/research-topics/25941/systems-biology-women-in-science-202122-data-and-model-integration) <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2022 | **Topic Editor** <br> Frontiers in Systems Biology <br> [Systems Biology, Women in Science 2021/22: Data and Model Integration](https://www.frontiersin.org/research-topics/25941/systems-biology-women-in-science-202122-data-and-model-integration)
 2021 - present | **Full Professor** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
-2020 - present | **Research Unit Head** <br> [CENSER’s Systems and Computational Biology (SComB) Research Unit](https://dlsu-scomb.github.io/) <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2020 - 2024 | **Research Unit Head** <br> [CENSER’s Systems and Computational Biology (SComB) Research Unit](https://dlsu-scomb.github.io/) <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2017 - 2023 | **Assistant Dean for Research and Advanced Studies** <br> College of Science<br>De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2015 - 2018 | **Research Unit Head** <br> CENSER’s Mathematical and Statistical Modeling Unit <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2013 - 2020 | **Associate Professor** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
