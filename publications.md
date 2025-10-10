@@ -66,6 +66,10 @@ P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
 B.J. Almarinez, D. Amalin, K. Aviso, H. Cabezas, <u>A. Lao</u>, R. Tan. <br>
 *Insects 2023, 14(9), 731; https://doi.org/10.3390/insects14090731.*
 
+[**Editorial: Systems biology, Women in Science 2021/22: Data and Model Integration.**](https://www.frontiersin.org/journals/systems-biology/articles/10.3389/fsysb.2023.1134055/full)<br>
+M. Rodríguez Martínez, <u>A. Lao</u>, L. Torres.<br>
+*Frontiers in Systems Biology, 3, 1134055, 2023.*
+
 [**Modelling Network Effects of Biological Control: The Case of the Philippine Coconut Scale Insect Outbreak.**](https://link.springer.com/article/10.1007/s10526-023-10188-4)<br>
 B.J. Almarinez, D. Amalin, K. Aviso, H. Cabezas, <u>A. Lao</u>, R. Tan. <br>
 *BioControl, 68, pages117–130 (2023). https://doi.org/10.1007/s10526-023-10188-4*
