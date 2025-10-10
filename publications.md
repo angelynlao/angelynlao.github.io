@@ -130,10 +130,6 @@ K. Fields, N. Fortun, G.A. Solano, <u>A. Lao</u>. <br>
 JM Recario, G.A. Solano, <u>A. Lao</u>. <br>
 *In 2020 11th International Conference on Information, Intelligence, Systems and Applications (IISA), IEEE.*
 
-[**P-graph Causality Maps.**](https://link.springer.com/article/10.1007/s41660-020-00147-2) <br>
-R.G. Tan, K. Aviso, <u>A. Lao</u>, M. Promentilla. <br>
-*Process Integration and Optimization for Sustainability.*
-
 [**A Deterministic Compartmental Modeling Framework for Disease Transmission.**](https://link.springer.com/protocol/10.1007/978-1-0716-0822-7_12) <br>
 K.J. Villasin, E. Rodriguez, and <u>A. Lao</u>. <br>
 *In Computational Methods in Synthetic Biology, Second Edition.*
