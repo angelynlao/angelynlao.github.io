@@ -36,6 +36,10 @@ J.P. Guzman, C. Cheng, J.M.A. Bernades, <u>A. Lao</u>. <br>
 *In Proceedings of the 18th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2025) - Volume 2: HEALTHINF, pages 343-350*
 
 2024 <br>
+[**A comprehensive review of artificial intelligence for pharmacology research..**](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1450529/full)<br>
+B. Li, K. Tan, <u>A. Lao</u>, H. Wang, H. Zheng, & L. Zhang.<br> 
+*Frontiers in Genetics, 15, 1450529, 2024*
+
 [**Comparison of reaction networks of insulin signaling.**](https://scienggj.org/2024-263/)<br>
 P.V. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
 *SciEnggJ, 17 (2): 263-273, December 2024*
