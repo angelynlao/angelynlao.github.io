@@ -92,7 +92,7 @@ P. Lubenia, E. Mendoza, <u>A. Lao</u>. <br>
 E. Chan, M. Chan, S. Ching, S. Sie, <u>A. Lao</u>, J. Bernadas and C. Cheng. <br>
 *In Proceedings of the 15th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2022) - HEALTHINF; ISBN 978-989-758-552-4; ISSN 2184-4305, SciTePress, pages 421-429. DOI: 10.5220/0010818000003123.*
 
-[**Maintaining the Resilience and Productivity of Co-culture Systems in the Face of Environmental Change.**](https://www.nature.com/articles/s41893-022-00912-w) <br>
+[**Maintaining the Productivity of Co-culture Systems in the Face of Environmental Change.**](https://www.nature.com/articles/s41893-022-00912-w) <br>
 <u>A. Lao</u>, K. Aviso, H. Cabezas, R. Tan.<br>
 *Nature Sustainability 5 (9), 749-752.*
 
