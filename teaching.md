@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Teaching
+title: News and Events
 permalink: /teaching/
 ---
