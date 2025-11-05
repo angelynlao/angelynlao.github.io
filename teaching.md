@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News and Events
-permalink: /teaching/
+permalink: /newsandevents/
 ---
 
 NEWS AND EVENTS 
