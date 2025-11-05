@@ -23,13 +23,19 @@ layout: home
 <div class="row">
 	<div class="column left">
 		<p>
-		I am a Full Professor in the Department of Mathematics and Statistics and serve as the Director of the <a href="https://www.dlsu.edu.ph/research/research-centers/censer/" target="_blank">Center for Natural Sciences and Environmental Research (CENSER)</a> at the College of Science, De La Salle University (DLSU). Additionally, I am a member of the <a href="https://dlsu-scomb.github.io/" target="_blank">Systems and Computational Biology (SComB) Research Unit</a> under CENSER, as well as the <a href="https://comet.dlsu.edu.ph/" target="_blank">Center for Complexity and Emerging Technologies (COMET)</a> within the Advanced Research Institute for Informatics, Computing, and Networking (AdRIC) Research Center at the College of Computer Studies, DLSU. My research interests encompass Systems Biology, Graph Theory, and Mathematical Modeling.
+		Dr. Angelyn Relucio Lao is a Full Professor in the Department of Mathematics and Statistics at De La Salle University (DLSU) and currently serves as Director of the <a href="https://www.dlsu.edu.ph/research/research-centers/censer/" target="_blank">Center for Natural Sciences and Environmental Research (CENSER)</a>. She earned her Ph.D. in Systems Biology and Bioinformatics from the University of Rostock in Germany, her M.S. in Mathematics, and dual undergraduate degrees in Mathematics and Secondary Education from DLSU.
+		</p>
+		<p>
+Dr. Lao’s expertise lies at the intersection of mathematical modeling, systems biology, network science, and the mathematics of deep learning and machine learning. Her research integrates chemical reaction network theory, graph-based learning, and topological data analysis to address complex challenges in health, environment, and communication systems. She leads multidisciplinary collaborations linking mathematics with computational biology, data science, and sustainability studies, contributing to initiatives in medical health sciences (including Alzheuner's disease, tuberculosis, insulin resistance, and antimicrobial resistance), carbon dioxide removal systems, and health information dynamics. Her work has been published in high-impact journals, including Nature Sustainability.
+		</p>
+		<p>
+An active leader in the mathematical sciences community, Dr. Lao serves as Vice President of the Philippine Society for Mathematical Biology, Secretary of the Asia-Oceania Women in Mathematics, Board Member of the Mathematical Society of the Philippines, and Director of the East Asia Section of the Society for Industrial and Applied Mathematics. She also serves on the Board of Directors of the Philippine-American Academy of Scientists and Engineers (PAASE), promoting collaboration, inclusivity, and mentorship across the scientific community.
+		</p>
+		<p>
+Her leadership initiatives include organizing international conferences, such as the EASIAM 2025 Conference and the International Workshop on Mathematical Biology (IWOMB), as well as capacity-building programs for women and young researchers in STEM fields. Among her distinctions are the Evelyn D. Ang Distinguished Professorial Chair in Mathematics and Statistics for the Health Sciences (2024–2025), the Br. C. John Lynam FSC and Br. Albinus Peter FSC Professorial Chairs in Mathematics (2018–2023), the PAASE Rising Star Award (2025), and the Outstanding Scientific Paper Award from the National Academy of Science and Technology (2020). She has also been awarded major research funding by the Department of Science and Technology (DOST), including the DOST-PCHRD grant for antimicrobial resistance (AMR) surveillance in hospital wastewater, which recognizes her leadership in integrating mathematical modeling and computational biology to address national health and sustainability challenges.
 		</p>
 		<p>
 I transitioned to DLSU following the completion of my Doctorate in Systems Biology from the Department of Systems Biology and Bioinformatics at the University of Rostock in Germany. I earned both my Bachelor’s and Master’s degrees in Mathematics at DLSU. From 2018 to 2023, I held two Professorial Chairs in Mathematics: the Br. C. John Lynam FSC Professorial Chair and the Br. Albinus Peter FSC Professorial Chair. Additionally, I served as the Assistant Dean for Research and Advanced Studies (ADRAS) in the College of Science at DLSU from 2017 to 2023. 
-		</p>
-		<p>
-I utilized mathematical modeling to tackle pressing health issues in the Philippines, including Alzheuner's disease, tuberculosis, insulin resistance, and antimicrobial resistance. My research also encompasses epidemic modeling and health communication dynamics to assist policymakers in optimizing the timing and effectiveness of information dissemination through social media. My research endeavors leverage my mathematical expertise to devise practical solutions for societal improvement.
 		</p>
 	</div>
 	<div class="column right">
@@ -38,3 +44,4 @@ I utilized mathematical modeling to tackle pressing health issues in the Philipp
 
 	</div>
 </div>
+
