@@ -23,6 +23,9 @@ layout: home
 <div class="row">
 	<div class="column left">
 		<p>
+		Dr. Angelyn Relucio Lao is a Full Professor in the Department of Mathematics and Statistics at De La Salle University (DLSU) and currently serves as Director of the <a href="https://www.dlsu.edu.ph/research/research-centers/censer/"target="_blank">Center for Natural Sciences and Environmental Research (CENSER)</a>. Additionally, she served as the Assistant Dean for Research and Advanced Studies in the College of Science at DLSU from 2017 to 2023. She earned her Ph.D. in Systems Biology and Bioinformatics from the University of Rostock in Germany, her M.S. in Mathematics, and dual undergraduate degrees in Mathematics and Secondary Education from DLSU.
+		</p>
+		<p>
 Dr. Lao’s expertise lies at the intersection of mathematical modeling, systems biology, network science, and the mathematics of deep learning and machine learning. Her research integrates chemical reaction network theory, graph-based learning, and topological data analysis to address complex challenges in health, environment, and communication systems. She leads multidisciplinary collaborations linking mathematics with computational biology, data science, and sustainability studies, contributing to initiatives in medical health sciences (including Alzheuner's disease, tuberculosis, insulin resistance, and antimicrobial resistance), carbon dioxide removal systems, and health information dynamics. Her work has been published in high-impact journals, including Nature Sustainability.
 		</p>
 		<p>
@@ -35,9 +38,9 @@ Her leadership initiatives include organizing international conferences, such as
 	<div class="column right">
 	
 <img src='/assets/angelyn-lao.jpg' width='220' height='300' align='right' />
-
 	</div>
 </div>
+
 
 
 
