@@ -5,6 +5,12 @@ permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
+2026 <br>
+
+[**Parameter-Minimal Analysis of Carbon Dioxide Removal through Direct Air Capture.**](https://match.pmf.kg.ac.rs/issues/m95n3/m95n3_09325.html)<br>
+N. Fortun, <u>A. Lao</u>, E. Mendoza, L. Razon. <br>
+*MATCH Communication in Mathematical and Computer Chemistry, 95 (3), 695-729, 2026.*
+
 2025 <br>
 
 [**Network Analysis on DNA metabarcoding that captures dietary plant diversity in individuals and cohorts.**]()<br>
@@ -13,10 +19,6 @@ F. Yusoph, <u>A. Lao</u>, L. David, B. Neubert. <br>
 
 [**A reaction network approach to modeling carbon dioxide removal systems.**]()<br>
 N. Fortun, P. Gaspar, E. Jose, <u>A. Lao</u>, E. Mendoza, L. Razon. <br>
-*Submitted*
-
-[**Determining the Possibility of Multistationarity in a Model of the Earth Carbon Cycle with Direct Air Capture.**]()<br>
-N. Fortun, <u>A. Lao</u>, E. Mendoza, L. Razon. <br>
 *Submitted*
 
 [**Racializing Vaccines in/via Social Media: Extending the Imaginative Dimension of Communication to Health Communication.**]()<br>
@@ -96,7 +98,7 @@ E. Chan, M. Chan, S. Ching, S. Sie, <u>A. Lao</u>, J. Bernadas and C. Cheng. <br
 <u>A. Lao</u>, K. Aviso, H. Cabezas, R. Tan.<br>
 *Nature Sustainability 5 (9), 749-752.*
 
-[**Concentration Robustness in LP Kinetic Systems.**](https://match.pmf.kg.ac.rs/electronic_versions/Match88/n1/match88n1_29-66.pdf) <br>
+[**Concentration Robustness in LP Kinetic Systems.**](https://.pmf.kg.ac.rs/electronic_versions/88/n1/88n1_29-66.pdf) <br>
 <u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. <br>
 *MATCH Communication in Mathematical and Computer Chemistry, 88, 29-66.*
 	 
