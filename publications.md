@@ -11,15 +11,15 @@ permalink: /publications/
 N. Fortun, <u>A. Lao</u>, E. Mendoza, L. Razon. <br>
 *MATCH Communication in Mathematical and Computer Chemistry, 95 (3), 695-729, 2026.*
 
+[**A reaction network approach to modeling carbon dioxide removal systems.**]()<br>
+N. Fortun, P. Gaspar, E. Jose, <u>A. Lao</u>, E. Mendoza, L. Razon. <br>
+*Accepted at Process Integration and Optimization for Sustainability, 2026*
+
 2025 <br>
 
 [**Network Analysis on DNA metabarcoding that captures dietary plant diversity in individuals and cohorts.**]()<br>
 F. Yusoph, <u>A. Lao</u>, L. David, B. Neubert. <br>
 *In Preparation*
-
-[**A reaction network approach to modeling carbon dioxide removal systems.**]()<br>
-N. Fortun, P. Gaspar, E. Jose, <u>A. Lao</u>, E. Mendoza, L. Razon. <br>
-*Submitted*
 
 [**Racializing Vaccines in/via Social Media: Extending the Imaginative Dimension of Communication to Health Communication.**]()<br>
 J.P. Guzman, J.M.A. Bernades, <u>A. Lao</u>, C. Cheng. <br>
