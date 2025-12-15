@@ -11,9 +11,9 @@ permalink: /publications/
 N. Fortun, <u>A. Lao</u>, E. Mendoza, L. Razon. <br>
 *MATCH Communication in Mathematical and Computer Chemistry, 95 (3), 695-729, 2026.*
 
-[**A reaction network approach to modeling carbon dioxide removal systems.**]()<br>
+[**A reaction network approach to modeling carbon dioxide removal systems.**](https://link.springer.com/article/10.1007/s41660-025-00624-6)<br>
 N. Fortun, P. Gaspar, E. Jose, <u>A. Lao</u>, E. Mendoza, L. Razon. <br>
-*Accepted at Process Integration and Optimization for Sustainability, 2026*
+*Process Integration and Optimization for Sustainability, 2025, doi.org/10.1007/s41660-025-00624-6.*
 
 2025 <br>
 
